@@ -1,0 +1,32 @@
+
+.title{
+    text-align: center;
+    font-size: 28px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top : 60px;
+    margin-bottom : 25px;
+    background-color: #4682b4;
+    border-radius: 25px;
+   
+}
+
+.table{
+    color: #1E90FF;
+    padding-left: 20px;
+    font-family: "Circular Std Black";
+    text-align: left;
+    justify-content: center;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.photos{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.row{
+    margin-top: 100px;
+    padding-bottom: 100px;
+}

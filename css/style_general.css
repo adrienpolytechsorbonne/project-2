@@ -1,0 +1,150 @@
+* {
+	margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+	scroll-padding: 100% 0 0;
+	scrollbar-width: thin;
+ 	scrollbar-color: #1E90FF black;
+    max-width: 960px;
+}
+
+.html :focus-within{
+	scroll-behavior: smooth;
+}
+
+
+/* gestion de la barre de navigation*/
+body::-webkit-scrollbar {
+	width: 0.5em;
+} 
+
+/* arriere-plan de la barre*/
+body::-webkit-scrollbar-track {
+	background-color: black;
+}
+
+/* élément défilant lors du scroll */
+body::-webkit-scrollbar-thumb {
+	background-color: #1E90FF;
+	outline: solid #1E90FF;
+	border-radius: 20em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button{
+	font-family: "Torus Notched", "AllRoundGothicW01-Demi", "Circular Std Black" ;
+	color: #ace5ee;
+}
+
+
+body{
+    background-color: black;
+    width: 960px;
+    overflow-x: hidden;
+    max-width: 960px;
+}
+
+.container{
+    width: 960px;
+    height: auto;
+}
+
+.footer{
+    position: relative;
+    color:#1E90FF;
+    text-align: center;
+    margin-top: 25px;
+    border-top: 1px solid;
+    padding-top: 10px;
+}
+
+.footer p{
+    margin-bottom: 10px;
+    font-family: "Circular Std Black";
+}
+
+/*
+* {
+    list-style: none;
+    text-decoration: none;
+	scroll-padding: 100% 0 0;
+	scrollbar-width: thin;
+ 	scrollbar-color: #1E90FF black;
+    background-color: black;
+}
+
+.html :focus-within{
+	scroll-behavior: smooth;
+}
+
+
+body::-webkit-scrollbar {
+	width: 0.5em;
+} 
+
+
+body::-webkit-scrollbar-track {
+	background-color: black;
+}
+
+
+body::-webkit-scrollbar-thumb {
+	background-color: #1E90FF;
+	outline: solid #1E90FF;
+	border-radius: 20em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button{
+	font-family: "Torus Notched", "AllRoundGothicW01-Demi", "Circular Std Black" ;
+	color: #ace5ee;
+}
+
+body{
+	overflow-x: hidden;
+    max-width: 960px;
+}
+
+
+.link1{
+	font-size : 1.5em;	
+	font-family: "Torus Notched", "AllRoundGothicW01-Demi", "Circular Std Black" ;
+	color: #0dc0db;
+}
+
+.link2{
+	font-size : 1.5em;
+	font-family: "Torus Notched", "AllRoundGothicW01-Demi", "Circular Std Black" ;
+	color: #08268a;
+}
+
+.link3{
+	font-size : 1.5em;
+	font-family: "Torus Notched", "AllRoundGothicW01-Demi", "Circular Std Black" ;
+	color: #1dc481;
+}
+
+
+.link4{
+	font-size : 1.5em;
+	font-family: "Torus Notched", "AllRoundGothicW01-Demi", "Circular Std Black" ;
+	color: #0976ea;
+}
+
+.link5{
+	font-size : 1.5em;
+	font-family: "Torus Notched", "AllRoundGothicW01-Demi", "Circular Std Black" ;
+	color: #11d4e1e2;
+}
+*/

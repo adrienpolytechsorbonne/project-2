@@ -1,0 +1,27 @@
+
+.title{
+    text-align: center;
+    font-size: 28px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top : 60px;
+    margin-bottom : 25px;
+    background-color: #4682b4;
+    border-radius: 25px;
+}
+
+.img1{
+    justify-content: center; 
+    display: table-cell; 
+    margin-top: 25px;
+    margin-left: 300px; 
+    padding-bottom: 25px;
+}
+
+.img2{
+    justify-content: center; 
+    display: table-cell; 
+    margin-top: 25px;
+    margin-left: 220px; 
+    padding-bottom: 25px;
+}

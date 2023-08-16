@@ -1,0 +1,49 @@
+
+.title{
+    text-align: center;
+    font-size: 28px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top : 60px;
+    margin-bottom : 25px;
+    background-color: #4682b4;
+    border-radius: 25px;
+}
+
+.value{
+    font-family: "Torus Notched", "AllRoundGothicW01-Demi", "Circular Std Black" ;
+    color: #4682b4;
+    margin-top: 25px;
+    margin-left: 25px;
+    display: inline;
+}
+
+.beginning{
+    font-size: 30px;
+    text-align: left;
+}
+
+.values{
+    font-size: 22px;
+    margin-left: 25px;
+    margin-top: 50px;
+    float: left;
+    display: inline;
+}
+
+.description{
+    position: relative;
+    bottom: 25px;
+    right: 40px;
+    margin-left: 25px;
+    font-size: 18px;
+    float: right;
+    display: inline;
+}
+
+.photo{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 250px;
+    justify-content: center;
+}

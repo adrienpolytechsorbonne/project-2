@@ -1,0 +1,31 @@
+
+.title{
+    text-align: center;
+    font-size: 28px;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: #4682b4;
+    border-radius: 25px;
+}
+
+.question{
+    margin-left: 25px;
+    font-size: 22px;
+    font-family: "Torus Notched", "AllRoundGothicW01-Demi", "Circular Std Black" ;
+    color: #4682b4;
+}
+
+.question2{
+    position: relative;
+    top: 50px;
+    right: 170px;
+    font-size: 22px;
+    font-family: "Torus Notched", "AllRoundGothicW01-Demi", "Circular Std Black" ;
+    color: #4682b4;
+    display: inline;
+}
+
+.form{
+    margin-left: 25px;
+    overflow: auto;
+}
